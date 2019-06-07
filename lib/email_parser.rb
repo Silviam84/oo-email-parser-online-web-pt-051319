@@ -4,6 +4,10 @@ class Email
 end
 
 EmailParser.new(emails)
+
+parser.parser
+
 end
+
 
 
