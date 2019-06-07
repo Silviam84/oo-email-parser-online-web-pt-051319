@@ -1,3 +1,4 @@
+def attr_accessor
 class Email
   email = "john@doe.com", 
   
