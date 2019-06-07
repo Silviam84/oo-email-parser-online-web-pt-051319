@@ -3,5 +3,7 @@ class Email
   
 end
 
+EmailParser.new(emails)
+end
 
 
