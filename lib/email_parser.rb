@@ -1,2 +1,6 @@
+class Email
+  email = 
+end
+
 
 
