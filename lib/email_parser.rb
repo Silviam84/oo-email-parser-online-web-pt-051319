@@ -1,5 +1,6 @@
 class Email
-  email = 
+  email = "john@doe.com", 
+  "person@somewhere.org"
 end
 
 
